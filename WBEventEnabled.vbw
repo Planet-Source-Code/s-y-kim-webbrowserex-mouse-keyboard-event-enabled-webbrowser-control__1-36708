@@ -1,0 +1,7 @@
+frmMain = 44, 44, 563, 488, , 22, 22, 541, 466, C
+WebBrowserEx = 66, 66, 526, 387, , 44, 44, 504, 365, C
+APIWin = 66, 66, 542, 414, 
+CKeyboardHook = 154, 154, 668, 573, 
+KeyboardHooks = 88, 88, 602, 507, 
+MouseHooks = 110, 110, 624, 529, 
+CMouseHook = 132, 132, 646, 551, Z
